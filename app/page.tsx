@@ -87,9 +87,9 @@ export default function Home() {
               </div>
               <div>
                 <p className="mb-4">
-                  I'm a 20-year-old student from Tokushima, Japan. I played
+                  I&apos;m a 20-year-old student from Tokushima, Japan. I played
                   Trombone in a brass band during junior high and high school.
-                  I'm currently studying web development and design at
+                  I&apos;m currently studying web development and design at
                   <a
                     aria-label="Tokyo Design Technology Center College (opens in a new tab)"
                     className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
@@ -143,9 +143,9 @@ export default function Home() {
                                   viewBox="0 0 20 20"
                                 >
                                   <path
-                                    clip-rule="evenodd"
+                                    clipRule="evenodd"
                                     d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
-                                    fill-rule="evenodd"
+                                    fillRule="evenodd"
                                   ></path>
                                 </svg>
                               </span>
@@ -153,10 +153,10 @@ export default function Home() {
                           </a>
                         </h3>
                         <p className="mt-2 text-sm leading-normal">
-                          I've had so many encounters, experiences, and
-                          opportunities at this school. I'm new to programming
-                          and I'm learning as I go. I've also been meeting new
-                          friends.
+                          I&apos;ve had so many encounters, experiences, and
+                          opportunities at this school. I&apos;m new to
+                          programming and I&apos;m learning as I go. I&apos;ve
+                          also been meeting new friends.
                         </p>
                       </div>
                     </div>
@@ -198,14 +198,14 @@ export default function Home() {
                                 App
                                 <svg
                                   aria-hidden="true"
-                                  class="ml-1 inline-block size-4 shrink-0 translate-y-px transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none"
+                                  className="ml-1 inline-block size-4 shrink-0 translate-y-px transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none"
                                   fill="currentColor"
                                   viewBox="0 0 20 20"
                                 >
                                   <path
-                                    clip-rule="evenodd"
+                                    clipRule="evenodd"
                                     d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
-                                    fill-rule="evenodd"
+                                    fillRule="evenodd"
                                   ></path>
                                 </svg>
                               </span>
@@ -272,14 +272,14 @@ export default function Home() {
                                 App
                                 <svg
                                   aria-hidden="true"
-                                  class="ml-1 inline-block size-4 shrink-0 translate-y-px transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none"
+                                  className="ml-1 inline-block size-4 shrink-0 translate-y-px transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none"
                                   fill="currentColor"
                                   viewBox="0 0 20 20"
                                 >
                                   <path
-                                    clip-rule="evenodd"
+                                    clipRule="evenodd"
                                     d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
-                                    fill-rule="evenodd"
+                                    fillRule="evenodd"
                                   ></path>
                                 </svg>
                               </span>
